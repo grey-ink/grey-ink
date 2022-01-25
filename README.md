@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grey-ink
-- 👀 I’m interested in creating and developing IT-infrastructures
+- 👀 I’m interested in developing IT-infrastructures
 - 🌱 I’m currently learning k8s, gitlab pipelines
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
