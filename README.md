@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @grey-ink
 - 👀 I’m interested in developing IT-infrastructures (IaaC)
-- 🌱 I’m currently learning k8s, gitlab pipelines
+- 🌱 I’m currently learning k8s, gitlab pipelines, helm, kustomize
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
